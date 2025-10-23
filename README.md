@@ -4,7 +4,7 @@ A simple implementation of a Retrieval-Augmented Generation (RAG) system using R
 
 ## Overview
 
-This project demonstrates a basic RAG system. It retrieves relevant information from a ChromaDB vector database based on a user's question and then uses the Gemini API to generate an answer based on the retrieved context.
+This project demonstrates a basic RAG system. It retrieves relevant information from a ChromaDB vector database based on a user's question and then uses the Gemini API to generate an answer based on the retrieved context. I have created this as the existing gems are failing for me so I thought to build the APIs I need on my own.
 
 ## Features
 
